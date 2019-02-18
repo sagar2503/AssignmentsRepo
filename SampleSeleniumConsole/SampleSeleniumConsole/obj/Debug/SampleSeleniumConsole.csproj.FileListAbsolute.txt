@@ -1,0 +1,12 @@
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\bin\Debug\mycre.xml
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\bin\Debug\SampleSeleniumConsole.exe.config
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\bin\Debug\SampleSeleniumConsole.exe
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\bin\Debug\SampleSeleniumConsole.pdb
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\bin\Debug\Microsoft.VisualStudio.PerformanceTools.Automation.dll
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\bin\Debug\WebDriver.dll
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\bin\Debug\WebDriver.Support.dll
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\bin\Debug\WebDriver.xml
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\bin\Debug\WebDriver.Support.xml
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\obj\Debug\SampleSeleniumConsole.exe
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\obj\Debug\SampleSeleniumConsole.pdb
+C:\Users\a647245\OneDrive - Atos\VSProjects\SampleSeleniumConsole\SampleSeleniumConsole\obj\Debug\SampleSeleniumConsole.csprojResolveAssemblyReference.cache

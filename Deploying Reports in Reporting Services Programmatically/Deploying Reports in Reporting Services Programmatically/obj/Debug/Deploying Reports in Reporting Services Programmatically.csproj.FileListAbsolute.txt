@@ -1,0 +1,11 @@
+E:\blog\Deploying Reports in Reporting Services Programmatically\Deploying Reports in Reporting Services Programmatically\obj\Debug\ResolveAssemblyReference.cache
+E:\blog\Deploying Reports in Reporting Services Programmatically\Deploying Reports in Reporting Services Programmatically\bin\Debug\Deploying Reports in Reporting Services Programmatically.exe.config
+E:\blog\Deploying Reports in Reporting Services Programmatically\Deploying Reports in Reporting Services Programmatically\bin\Debug\Deploying Reports in Reporting Services Programmatically.exe
+E:\blog\Deploying Reports in Reporting Services Programmatically\Deploying Reports in Reporting Services Programmatically\bin\Debug\Deploying Reports in Reporting Services Programmatically.pdb
+E:\blog\Deploying Reports in Reporting Services Programmatically\Deploying Reports in Reporting Services Programmatically\obj\Debug\Deploying Reports in Reporting Services Programmatically.exe
+E:\blog\Deploying Reports in Reporting Services Programmatically\Deploying Reports in Reporting Services Programmatically\obj\Debug\Deploying Reports in Reporting Services Programmatically.pdb
+C:\Users\a647245\OneDrive - Atos\ATOS DOCS\Deploying Reports in Reporting Services Programmatically\Deploying Reports in Reporting Services Programmatically\bin\Debug\Deploying Reports in Reporting Services Programmatically.exe.config
+C:\Users\a647245\OneDrive - Atos\ATOS DOCS\Deploying Reports in Reporting Services Programmatically\Deploying Reports in Reporting Services Programmatically\bin\Debug\Deploying Reports in Reporting Services Programmatically.exe
+C:\Users\a647245\OneDrive - Atos\ATOS DOCS\Deploying Reports in Reporting Services Programmatically\Deploying Reports in Reporting Services Programmatically\bin\Debug\Deploying Reports in Reporting Services Programmatically.pdb
+C:\Users\a647245\OneDrive - Atos\ATOS DOCS\Deploying Reports in Reporting Services Programmatically\Deploying Reports in Reporting Services Programmatically\obj\Debug\Deploying Reports in Reporting Services Programmatically.exe
+C:\Users\a647245\OneDrive - Atos\ATOS DOCS\Deploying Reports in Reporting Services Programmatically\Deploying Reports in Reporting Services Programmatically\obj\Debug\Deploying Reports in Reporting Services Programmatically.pdb

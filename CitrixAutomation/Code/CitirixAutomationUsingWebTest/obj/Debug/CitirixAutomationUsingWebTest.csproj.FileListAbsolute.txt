@@ -1,0 +1,10 @@
+C:\Users\a647245\OneDrive - Atos\VSProjects\CitrixAutomation\Code\CitirixAutomationUsingWebTest\bin\Debug\WebTest1.webtest
+C:\Users\a647245\OneDrive - Atos\VSProjects\CitrixAutomation\Code\CitirixAutomationUsingWebTest\bin\Debug\CitirixAutomationUsingWebTest.dll
+C:\Users\a647245\OneDrive - Atos\VSProjects\CitrixAutomation\Code\CitirixAutomationUsingWebTest\bin\Debug\CitirixAutomationUsingWebTest.pdb
+C:\Users\a647245\OneDrive - Atos\VSProjects\CitrixAutomation\Code\CitirixAutomationUsingWebTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\a647245\OneDrive - Atos\VSProjects\CitrixAutomation\Code\CitirixAutomationUsingWebTest\obj\Debug\CitirixAutomationUsingWebTest.csprojAssemblyReference.cache
+C:\Users\a647245\OneDrive - Atos\VSProjects\CitrixAutomation\Code\CitirixAutomationUsingWebTest\obj\Debug\CitirixAutomationUsingWebTest.csproj.CoreCompileInputs.cache
+C:\Users\a647245\OneDrive - Atos\VSProjects\CitrixAutomation\Code\CitirixAutomationUsingWebTest\obj\Debug\CitirixAutomationUsingWebTest.csproj.CopyComplete
+C:\Users\a647245\OneDrive - Atos\VSProjects\CitrixAutomation\Code\CitirixAutomationUsingWebTest\obj\Debug\CitirixAutomationUsingWebTest.dll
+C:\Users\a647245\OneDrive - Atos\VSProjects\CitrixAutomation\Code\CitirixAutomationUsingWebTest\obj\Debug\CitirixAutomationUsingWebTest.pdb
+C:\Users\a647245\OneDrive - Atos\VSProjects\CitrixAutomation\Code\CitirixAutomationUsingWebTest\bin\Debug\ura.webtest

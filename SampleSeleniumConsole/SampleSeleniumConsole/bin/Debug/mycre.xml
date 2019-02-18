@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+ <sacconstore>
+   <saccon category="credential">
+     <dasid lang="en">A630857</dasid>
+     <password>Aug@2018123456789</password>   
+   </saccon>
+   <!--<saccon category="citrix">
+     <userid lang="en">MUC/QXO4317</userid>
+     <password>ang1ern3</password>     
+   </saccon>-->
+ </sacconstore>

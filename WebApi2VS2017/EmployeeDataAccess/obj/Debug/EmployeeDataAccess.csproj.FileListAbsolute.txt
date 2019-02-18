@@ -1,0 +1,6 @@
+C:\Users\a647245\OneDrive - Atos\VSProjects\WebApi2VS2017\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\a647245\OneDrive - Atos\VSProjects\WebApi2VS2017\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\a647245\OneDrive - Atos\VSProjects\WebApi2VS2017\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+C:\Users\a647245\OneDrive - Atos\VSProjects\WebApi2VS2017\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\a647245\OneDrive - Atos\VSProjects\WebApi2VS2017\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\a647245\OneDrive - Atos\VSProjects\WebApi2VS2017\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb

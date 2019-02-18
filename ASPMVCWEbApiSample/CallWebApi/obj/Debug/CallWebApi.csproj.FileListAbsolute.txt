@@ -1,0 +1,6 @@
+C:\Users\a647245\OneDrive - Atos\VSProjects\ASPMVCWEbApiSample\CallWebApi\bin\CallWebApi.dll.config
+C:\Users\a647245\OneDrive - Atos\VSProjects\ASPMVCWEbApiSample\CallWebApi\bin\CallWebApi.dll
+C:\Users\a647245\OneDrive - Atos\VSProjects\ASPMVCWEbApiSample\CallWebApi\bin\CallWebApi.pdb
+C:\Users\a647245\OneDrive - Atos\VSProjects\ASPMVCWEbApiSample\CallWebApi\obj\Debug\CallWebApi.csprojResolveAssemblyReference.cache
+C:\Users\a647245\OneDrive - Atos\VSProjects\ASPMVCWEbApiSample\CallWebApi\obj\Debug\CallWebApi.dll
+C:\Users\a647245\OneDrive - Atos\VSProjects\ASPMVCWEbApiSample\CallWebApi\obj\Debug\CallWebApi.pdb

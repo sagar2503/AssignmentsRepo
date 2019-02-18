@@ -1,0 +1,6 @@
+C:\Users\a647245\OneDrive - Atos\VSProjects\VarnDynamic\VarnDynamic\bin\Debug\VarnDynamic.exe.config
+C:\Users\a647245\OneDrive - Atos\VSProjects\VarnDynamic\VarnDynamic\bin\Debug\VarnDynamic.exe
+C:\Users\a647245\OneDrive - Atos\VSProjects\VarnDynamic\VarnDynamic\bin\Debug\VarnDynamic.pdb
+C:\Users\a647245\OneDrive - Atos\VSProjects\VarnDynamic\VarnDynamic\obj\Debug\VarnDynamic.csprojResolveAssemblyReference.cache
+C:\Users\a647245\OneDrive - Atos\VSProjects\VarnDynamic\VarnDynamic\obj\Debug\VarnDynamic.exe
+C:\Users\a647245\OneDrive - Atos\VSProjects\VarnDynamic\VarnDynamic\obj\Debug\VarnDynamic.pdb

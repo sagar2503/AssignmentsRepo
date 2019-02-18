@@ -1,0 +1,6 @@
+C:\Users\a647245\OneDrive - Atos\VSProjects\TPL\TPL\bin\Debug\TPL.exe.config
+C:\Users\a647245\OneDrive - Atos\VSProjects\TPL\TPL\bin\Debug\TPL.exe
+C:\Users\a647245\OneDrive - Atos\VSProjects\TPL\TPL\bin\Debug\TPL.pdb
+C:\Users\a647245\OneDrive - Atos\VSProjects\TPL\TPL\obj\Debug\TPL.csprojResolveAssemblyReference.cache
+C:\Users\a647245\OneDrive - Atos\VSProjects\TPL\TPL\obj\Debug\TPL.exe
+C:\Users\a647245\OneDrive - Atos\VSProjects\TPL\TPL\obj\Debug\TPL.pdb

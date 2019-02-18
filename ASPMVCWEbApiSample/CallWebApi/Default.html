@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script>
+        $(document).ready
+        (
+        function ()
+        {
+            jQuery.support.cors = true;
+            $('#Button1').click
+            (
+                function ()
+                {
+                    $.ajax(
+                        {
+                            url: 'http://localhost:39773/api/values',
+                            type: 'GET',
+                            datatype: 'json',
+                            success: function (data)
+                            {
+                                alert(data.Name);
+                            }
+                        }
+                        )
+                }
+            )
+        }
+        );
+
+
+    </script>
+</head>
+<body>
+    <input id="Button1" type="button" value="Call Web API" />
+</body>
+</html>

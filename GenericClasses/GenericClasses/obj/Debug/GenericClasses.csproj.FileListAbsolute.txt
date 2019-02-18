@@ -1,0 +1,6 @@
+C:\Users\a647245\OneDrive - Atos\VSProjects\GenericClasses\GenericClasses\bin\Debug\GenericClasses.exe.config
+C:\Users\a647245\OneDrive - Atos\VSProjects\GenericClasses\GenericClasses\obj\Debug\GenericClasses.csprojResolveAssemblyReference.cache
+C:\Users\a647245\OneDrive - Atos\VSProjects\GenericClasses\GenericClasses\bin\Debug\GenericClasses.exe
+C:\Users\a647245\OneDrive - Atos\VSProjects\GenericClasses\GenericClasses\bin\Debug\GenericClasses.pdb
+C:\Users\a647245\OneDrive - Atos\VSProjects\GenericClasses\GenericClasses\obj\Debug\GenericClasses.exe
+C:\Users\a647245\OneDrive - Atos\VSProjects\GenericClasses\GenericClasses\obj\Debug\GenericClasses.pdb
