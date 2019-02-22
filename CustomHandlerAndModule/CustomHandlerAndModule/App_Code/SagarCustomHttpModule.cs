@@ -9,7 +9,7 @@ namespace CustomHandlerAndModule.App_Code
         private StreamWriter sw;
         public void Dispose()
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
 
         public void Init(HttpApplication context)
@@ -20,6 +20,9 @@ namespace CustomHandlerAndModule.App_Code
         void context_BeginRequest(object sender, EventArgs e)
         {
             string filepath = @"C:\PrivateRepo\GitRepo\AssignmentsRepo\CustomHandlerAndModule\CustomHandlerAndModule\logger.txt";
+
+            // write your own logic to log into a file
+
             //throw new NotImplementedException();
             //if (!File.Exists(filepath))
             //{
