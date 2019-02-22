@@ -1,6 +1,0 @@
-C:\Users\a647245\OneDrive - Atos\VSProjects\KRDateTimeDefect\KRDateTimeDefect\bin\Debug\KRDateTimeDefect.exe.config
-C:\Users\a647245\OneDrive - Atos\VSProjects\KRDateTimeDefect\KRDateTimeDefect\bin\Debug\KRDateTimeDefect.exe
-C:\Users\a647245\OneDrive - Atos\VSProjects\KRDateTimeDefect\KRDateTimeDefect\bin\Debug\KRDateTimeDefect.pdb
-C:\Users\a647245\OneDrive - Atos\VSProjects\KRDateTimeDefect\KRDateTimeDefect\obj\Debug\KRDateTimeDefect.csprojResolveAssemblyReference.cache
-C:\Users\a647245\OneDrive - Atos\VSProjects\KRDateTimeDefect\KRDateTimeDefect\obj\Debug\KRDateTimeDefect.exe
-C:\Users\a647245\OneDrive - Atos\VSProjects\KRDateTimeDefect\KRDateTimeDefect\obj\Debug\KRDateTimeDefect.pdb
