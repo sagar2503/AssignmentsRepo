@@ -9,17 +9,27 @@ using System.Web.Http;
 namespace ASPMVCWEbApiSample.Controllers
 {
     //[Authorize]
+
+    //https://www.youtube.com/watch?v=GbKBcDX8DDQ&index=3&list=PL6n9fhu94yhW7yoUOGNOfHurUE6bpOO2b
+
     public class ValuesController : ApiController
     {
         // GET api/values
-        public IEnumerable<Customer> Get()
+
+        static List<string> lstStrng = new List<string>();
+        
+        public IEnumerable<string> Get()
         {
-            return new List<Customer>()
+            if (lstStrng.Count == 0)
             {
-                new Customer { id = 1, Name = "Sagar" },
-                new Customer { id = 2, Name = "Dipti" }
-            };
+                lstStrng.Add("sagar");
+                lstStrng.Add("dipti");
+            }
+            return lstStrng;
+ 
         }
+
+ 
 
         // GET api/values/5
         public Customer Get(int id)
@@ -35,16 +45,19 @@ namespace ASPMVCWEbApiSample.Controllers
         // POST api/values
         public void Post([FromBody]string value)
         {
+            lstStrng.Add(value);
         }
 
         // PUT api/values/5
         public void Put(int id, [FromBody]string value)
         {
+            lstStrng[id] = value;
         }
 
         // DELETE api/values/5
         public void Delete(int id)
         {
+            lstStrng.RemoveAt(id);
         }
     }
 }
