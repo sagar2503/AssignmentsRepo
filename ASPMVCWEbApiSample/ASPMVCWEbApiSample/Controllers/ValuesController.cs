@@ -43,9 +43,21 @@ namespace ASPMVCWEbApiSample.Controllers
         }
 
         // POST api/values
-        public void Post([FromBody]string value)
+        public HttpResponseMessage Post([FromBody]string value)
         {
-            lstStrng.Add(value);
+            try
+            {
+                lstStrng.Add(value);
+                var message = Request.CreateResponse(HttpStatusCode.Created);
+                return message;
+            }
+            catch (Exception ex)
+            {
+
+                var errorMessage = Request.CreateErrorResponse(HttpStatusCode.BadRequest,ex);
+                return errorMessage;
+            }
+            
         }
 
         // PUT api/values/5
