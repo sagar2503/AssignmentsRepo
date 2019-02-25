@@ -124,3 +124,5 @@ C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\bin
 C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\obj\Debug\ASPMVCWEbApiSample.csprojResolveAssemblyReference.cache
 C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\obj\Debug\ASPMVCWEbApiSample.dll
 C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\obj\Debug\ASPMVCWEbApiSample.pdb
+C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\bin\WebApiContrib.Formatting.Jsonp.pdb
