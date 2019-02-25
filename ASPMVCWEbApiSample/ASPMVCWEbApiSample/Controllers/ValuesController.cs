@@ -18,7 +18,8 @@ namespace ASPMVCWEbApiSample.Controllers
 
         static List<string> lstStrng = new List<string>();
         
-        public IEnumerable<string> Get()
+        [HttpGet]
+        public IEnumerable<string> LoadAllValues()
         {
             if (lstStrng.Count == 0)
             {
