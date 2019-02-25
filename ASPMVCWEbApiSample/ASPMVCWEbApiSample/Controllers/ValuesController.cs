@@ -5,12 +5,15 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace ASPMVCWEbApiSample.Controllers
 {
     //[Authorize]
 
     //https://www.youtube.com/watch?v=GbKBcDX8DDQ&index=3&list=PL6n9fhu94yhW7yoUOGNOfHurUE6bpOO2b
+
+    [EnableCorsAttribute("*","*","*")]
 
     public class ValuesController : ApiController
     {
@@ -19,6 +22,7 @@ namespace ASPMVCWEbApiSample.Controllers
         static List<string> lstStrng = new List<string>();
         
         [HttpGet]
+        //[DisableCors]
         public IEnumerable<string> LoadAllValues(string gender = "all")
         {
             if (lstStrng.Count == 0)

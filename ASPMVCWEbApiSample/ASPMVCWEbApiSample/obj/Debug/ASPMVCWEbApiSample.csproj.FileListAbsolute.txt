@@ -126,3 +126,6 @@ C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\obj
 C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\obj\Debug\ASPMVCWEbApiSample.pdb
 C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\bin\WebApiContrib.Formatting.Jsonp.dll
 C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\bin\WebApiContrib.Formatting.Jsonp.pdb
+C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\bin\System.Web.Cors.dll
+C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\bin\System.Web.Http.Cors.dll
+C:\PrivateRepo\GitRepo\AssignmentsRepo\ASPMVCWEbApiSample\ASPMVCWEbApiSample\bin\System.Web.Http.Cors.xml
