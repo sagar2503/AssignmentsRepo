@@ -19,7 +19,7 @@ namespace ASPMVCWEbApiSample.Controllers
         static List<string> lstStrng = new List<string>();
         
         [HttpGet]
-        public IEnumerable<string> LoadAllValues()
+        public IEnumerable<string> LoadAllValues(string gender = "all")
         {
             if (lstStrng.Count == 0)
             {
@@ -62,7 +62,7 @@ namespace ASPMVCWEbApiSample.Controllers
         }
 
         // PUT api/values/5
-        public void Put(int id, [FromBody]string value)
+        public void Put([FromUri]int id, [FromBody]string value)
         {
             lstStrng[id] = value;
         }
