@@ -29,5 +29,7 @@ namespace ASPMVCWebAppSample.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<ASPMVCWebAppSample.Models.EmployeeViewModel> EmployeeViewModels { get; set; }
     }
 }
