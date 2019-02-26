@@ -191,3 +191,4 @@ ModelManifest.xml
 *.pdb
 *.pdb
 *.dll
+*.suo
